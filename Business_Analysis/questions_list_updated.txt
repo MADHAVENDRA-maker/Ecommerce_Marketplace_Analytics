@@ -1,0 +1,39 @@
+Q1: How has marketplace sales performance evolved over time?
+
+Q2: Which product categories are driving marketplace sales?
+
+Q3: Which sellers are driving marketplace sales, and how concentrated are sales among the top sellers?
+
+Q4: How valuable are Olist's customers, and how strong is customer retention?
+
+Q5: What factors are associated with repeat purchasing?
+
+Q6: How well is Olist performing on delivery?
+
+Q7: Which regions have the best and worst delivery performance?
+
+Q8: Which product categories have the best and worst customer experience?
+
+Q9: Which products generate the most sales, and are high-selling products also receiving good customer reviews?
+
+Q10: Which payment methods are most commonly used, and how does payment behavior vary across them?
+
+Q11: Which sellers generate the most revenue, and how does their customer experience compare with other sellers?
+
+Q12: How many customers are one-time buyers versus repeat buyers, and how much revenue does each group generate?
+
+Q13: What characteristics distinguish repeat customers from one-time customers?
+
+Q14: What proportion of orders are delivered, canceled, unavailable, or otherwise unsuccessful, and what is the financial impact of these orders?
+
+Q15: How does delivery performance vary across customer states, and which states experience the longest delivery times or delays?
+
+Q16: Does delivery performance affect customer satisfaction?
+
+Q17: How concentrated is marketplace revenue among sellers?
+
+Q18: Which categories and sellers have the strongest overall combination of sales, delivery performance, and customer satisfaction?
+
+Q19: Where are the biggest weaknesses in the overall marketplace performance?
+
+Q20: Where should the marketplace focus its improvement efforts to increase revenue, customer retention, and customer satisfaction while reducing operational problems?
